@@ -20,7 +20,7 @@ style: |
         #Cover p a {
             color:#FFF;
             }
-    #Picture h2 {
+    #End h2 {
         color:#FFF;
         }
     #SeeMore h2 {
@@ -43,71 +43,58 @@ style: |
 ## Outline
 
 1. 做有追求的软件工程师
-2. 英语，绕不开的话题
-3. Git/GitHub/GitLab
-4. 技术写作和团队文档
-5. 技术分享
+2. 高效获取有价值信息
+3. 英语，绕不开的话题
+4. Git/GitHub/GitLab
+5. 技术写作和团队文档
+6. 技术分享
 
 
-## Plain Text on Your Slides
+## 什么叫有追求
 
-Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, *quis nostrud* exercitation ullamco laboris **nisi ut aliquip** ex ea commodo consequat. Duis aute irure <i>dolor</i> in reprehenderit in voluptate velit esse cillum <b>dolore</b> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in `<culpa>` qui officia deserunt mollit anim id est laborum.
+* 空杯心态 学习 学习
+* 规划个人职业目标
+* 热爱软件开发 
+* 将事情做到极致的追求
+* 管理好时间 保证有效输出
 
-## All Kind of Lists
+## 高效获取信息
 
-1. Simple lists are marked with bullets
-2. Ordered lists begin with a number
-3. You can even nest lists one inside another
-    - Or mix their types
-    - But do not go too far
-    - Otherwise audience will be bored
-4. Look, seven rows exactly!
+* [谷歌使用技巧必知](http://weibo.com/ttarticle/p/show?id=2309403936460112813381)
+* [如何用好 Google 等搜索引擎？](https://www.zhihu.com/question/20161362)
+* 墙？[Google 镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)
+* 有人分享下翻墙方式？
+* Github, StackOverflow, CSDN, ...
 
-## Serious Citations
+## 英语
 
-<figure markdown="1">
+1. 绕不开那就征服
+2. 相关资源
+    - [谈谈写程序与学英语](http://happypeter.github.io/on-english-and-prog.html)
+    - [程序员怎么提高英语阅读水平？](https://www.zhihu.com/question/20306040)
+    - [程序员英语学习指引](http://zh.lucida.me/blog/english-for-programmers/)
+3. 制定切实可行的计划 有效执行
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
+## Git/GitHub/Gitlab
 
-<figcaption>Marcus Tullius Cicero</figcaption>
-</figure>
+* Git
+* [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
+* Gitlab - 公司内部的Github
 
-## Code Samples
+## 技术写作 团队文档
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
-        <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
+* [Github上的团队](https://github.com/Real-YouInnov)
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+* [实用的上手指南](https://github.com/cinowu/gitskills/blob/master/jekyll-use.md)
+* [Markdown写作浅谈](http://www.jianshu.com/p/PpDNMG)
 
-## Even Tables
+## 技术分享
 
-|  Locavore      | Umami       | Helvetica | Vegan     |
-+----------------|-------------|-----------|-----------+
-|* Fingerstache *| Kale        | Chips     | Keytar    |
-|* Sriracha     *| Gluten-free | Ennui     | Keffiyeh  |
-|* Thundercats  *| Jean        | Shorts    | Biodiesel |
-|* Terry        *| Richardson  | Swag      | Blog      |
+* Github上写博客
+* 内部技术讲座 每周一次
 
-It’s good to have information organized.
-
-## Pictures
-{:.cover #Picture}
+## 结束是为了更好的开始
+{:.cover .shout #End}
 
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
-
-## **You can even shout this way**
-
-## Inner Navigation
-
-1. Lets you reveal list items one by one
-2. …To keep some key points
-3. …In secret from audience
-4. …But it will work only once
-5. …Nobody wants to see the same joke twice
-
-## ![](http://shwr.me/pictures/logo.svg) [See more on GitHub](https://github.com/shower/shower/)
-{:.shout #SeeMore}
