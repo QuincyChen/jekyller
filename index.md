@@ -101,7 +101,5 @@ style: |
 
 {:.cover .shout #End}
 
-*安装虚拟机->开始学习->使用才是最好的开始*
-
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
