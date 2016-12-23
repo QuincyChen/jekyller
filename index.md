@@ -35,6 +35,7 @@ style: |
 # Linux基础 {#Cover}
 
 *基于20/80原则*
+
 *关注命令行*
 
 ![](pictures/cover.jpg)
@@ -96,13 +97,11 @@ style: |
 * http://cn.linux.vbird.org/
 
 
-## 结束，使用是新的开始
+## 结束，使用是新的开始 {#Cover}
 
 * 安装虚拟机
 * 开始学习
 * 使用才是最好的开始
-
-{:.cover .shout #End}
 
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
