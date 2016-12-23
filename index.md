@@ -32,68 +32,76 @@ style: |
         }
 ---
 
-# 程序员的自我修养 {#Cover}
+# Linux基础 {#Cover}
 
-*打造学习型工程师团队*
+*基于20/80原则*
+*关注命令行*
 
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## Outline
+## Linux哲学
 
-1. 做有追求的软件工程师
-2. 高效获取有价值信息
-3. 英语，绕不开的话题
-4. Git/GitHub/GitLab
-5. 技术写作和团队文档
-6. 技术分享
+1. 一切都是文件
+2. 小型，单一用途的程序
+3. 连接程序，共同完成复杂功能
+4. 避免令人困惑的用户界面
+5. 配置数据存储在文本中
 
 
-## 什么叫有追求
+## Linux使用
 
-* 空杯心态 学习 学习
-* 规划个人职业目标
-* 热爱软件开发 
-* 将事情做到极致的追求
-* 管理好时间 保证有效输出
+1. 需求原则，一切以自身需求出发。（如与其他条目冲突，以此条优先）
+2. 只使用各种发行版的命令行版本，绝不安装 KDE、Gnome 等桌面版。
+3. 安装好后，Linux 主机拔掉键盘，鼠标，显示器。把主机放在一个不碍事的角落里长期供电。
+4. 用 Mac OS 或者 Windows，通过ssh远程登录使用 Linux。（最重要的一点）
+5. 如果一定要有个折中办法，Linux 的命令行版本可以安装在虚拟机中。
 
-## 高效获取信息
+## SSH
 
-* [谷歌使用技巧必知](http://weibo.com/ttarticle/p/show?id=2309403936460112813381)
-* [如何用好 Google 等搜索引擎？](https://www.zhihu.com/question/20161362)
-* 墙？[Google 镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)
-* 有人分享下翻墙方式？
-* Github, StackOverflow, CSDN, ...
+* SSH 为 Secure Shell 的缩写，由 IETF 的网络工作小组（Network Working Group）所制定；SSH 为建立在应用层和传输层基础上的安全协议。
+* SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议。利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。
+* ssh 
+* scp
 
-## 英语
+## 基础中的基础
 
-1. 绕不开那就征服
-2. 相关资源
-    - [谈谈写程序与学英语](http://happypeter.github.io/on-english-and-prog.html)
-    - [程序员怎么提高英语阅读水平？](https://www.zhihu.com/question/20306040)
-    - [程序员英语学习指引](http://zh.lucida.me/blog/english-for-programmers/)
-3. 制定切实可行的计划 有效执行
+0. 文件安全与权限
+1. pwd
+2. cd
+3. ls
+4. cat
+5. ln -s 
 
-## Git/GitHub/Gitlab
+## 常用
 
-* Git
-* [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
-* Gitlab - 公司内部的Github
+* man - 万能帮助
+* head
+* tail -f
+* cp
+* mv
 
-## 技术写作 团队文档
+## 管道
 
-* [Github上的团队](https://github.com/Real-YouInnov)
-* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
-* [实用的上手指南](https://github.com/cinowu/gitskills/blob/master/jekyll-use.md)
-* [Markdown写作浅谈](http://www.jianshu.com/p/PpDNMG)
+* vi
+* grep
+* ps -ef
+* top
 
-## 技术分享
+## 推荐书籍
 
-* Github上写博客
-* 内部技术讲座 每周一次
+* Linux与Unix shell编程指南
+* 在线man http://man.linuxde.net/
+* http://cn.linux.vbird.org/
 
-## 结束是为了更好的开始
+
+## 结束，使用是新的开始
+
+* 安装虚拟机
+* 开始学习
+* 使用才是最好的开始
+
 {:.cover .shout #End}
 
 ![](pictures/picture.jpg)
