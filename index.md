@@ -97,7 +97,7 @@ style: |
 * http://cn.linux.vbird.org/
 
 
-## 结束，使用是新的开始
+## 使用是新的开始
 
 {:.cover .shout #End}
 
