@@ -97,11 +97,11 @@ style: |
 * http://cn.linux.vbird.org/
 
 
-## 结束，使用是新的开始 {#Cover}
+## 结束，使用是新的开始
 
-* 安装虚拟机
-* 开始学习
-* 使用才是最好的开始
+{:.cover .shout #End}
+
+*安装虚拟机->开始学习->使用才是最好的开始*
 
 ![](pictures/picture.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
